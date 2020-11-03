@@ -1,0 +1,7 @@
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.exe.config
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.exe
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ReverseInteger\ReverseInteger\bin\Debug\ReverseInteger.pdb
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.csprojAssemblyReference.cache
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.exe
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ReverseInteger\ReverseInteger\obj\Debug\ReverseInteger.pdb
