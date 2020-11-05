@@ -1,0 +1,7 @@
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\IsPalindrome\IsPalindrome\bin\Debug\IsPalindrome.exe.config
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\IsPalindrome\IsPalindrome\bin\Debug\IsPalindrome.exe
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\IsPalindrome\IsPalindrome\bin\Debug\IsPalindrome.pdb
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.csprojAssemblyReference.cache
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.exe
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\IsPalindrome\IsPalindrome\obj\Debug\IsPalindrome.pdb
