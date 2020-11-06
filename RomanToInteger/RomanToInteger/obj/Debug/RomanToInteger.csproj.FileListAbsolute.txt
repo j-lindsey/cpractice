@@ -1,0 +1,7 @@
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\RomanToInteger\RomanToInteger\bin\Debug\RomanToInteger.exe.config
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\RomanToInteger\RomanToInteger\bin\Debug\RomanToInteger.exe
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\RomanToInteger\RomanToInteger\bin\Debug\RomanToInteger.pdb
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.csprojAssemblyReference.cache
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.exe
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\RomanToInteger\RomanToInteger\obj\Debug\RomanToInteger.pdb
