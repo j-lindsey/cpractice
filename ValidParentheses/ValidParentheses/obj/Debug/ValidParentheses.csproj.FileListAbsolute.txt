@@ -1,0 +1,7 @@
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ValidParentheses\ValidParentheses\bin\Debug\ValidParentheses.exe.config
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ValidParentheses\ValidParentheses\bin\Debug\ValidParentheses.exe
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ValidParentheses\ValidParentheses\bin\Debug\ValidParentheses.pdb
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.csprojAssemblyReference.cache
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.csproj.CoreCompileInputs.cache
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.exe
+C:\Users\joell\OneDrive\Documents\Projects\cpractice\cpractice\ValidParentheses\ValidParentheses\obj\Debug\ValidParentheses.pdb
